@@ -1,0 +1,15 @@
+<svg width="640" height="512" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="icomoon-ignore"/>
+  <path fill="#ffffff" id="svg_1" d="m416,368l48,48l160,-160l-160,-160l-48,48l112,112l-112,112z"/>
+  <path fill="#ffffff" id="svg_2" d="m224,144l-48,-48l-160,160l160,160l48,-48l-112,-112l112,-112z"/>
+  <path fill="#ffffff" id="svg_3" d="m350.649,75.26l34.734,9.472l-95.993,352.013l-34.734,-9.472l95.994,-352.013l-0.001,0z"/>
+ </g>
+</svg>
